@@ -180,6 +180,9 @@ Try to use reduce like I have, but the more important part is using readFile and
 [readFile Docs](https://nodejs.org/api/fs.html#fs_fs_readfile_file_options_callback)
 
 
+[More Practice](https://github.com/gSchool/module.exports)
+
+
  
  
  
