@@ -14,11 +14,6 @@ By the end of this lesson, you should be able to:
 
 ____________
 
-Two great videos to watch:
-
-* [Node Modules Part 1](https://vimeo.com/142099942)
-* [Node Modules Part 2](https://vimeo.com/142102383)
-
 ### Important Points
 
 * Node.js 'modules' allow us to share and reuse code, keeping code modular and DRY. Modules can export any value (function, objects, string/numbers, ...). However, the default is an object (a hint is the dot notation: module "dot" exports is the same as object "dot" key). We will be using objects as examples but it is important to remember that module.exports can export any value.
